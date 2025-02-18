@@ -1,1 +1,5 @@
-Future home of Grace's visual argument!
+This repository is home to a visual argument project by Grace Longworth.
+
+So far, work on my project has largely been in experimenting with the different tools GIMP offers to achieve the visual impact I want. For this preview, I was able to separate an image – what will end up being the core of the visual – into two distinct layers. I used a selection tool to create a new layer with just one object from the original image and a layer mask to refine that new layer. 
+
+Moving forward, my goal is to build up the content surrounding the primary figure that’s currently featured, which will ultimately make my argument. I will need to make stylistic choices about how that content will be laid out – specifically, whether I want to use screenshots of published headlines like I mentioned in my proposal for authenticity or recreate them in type for visual consistency. In either case, I would also like to devote some time to ensuring these supplemental pieces are ethically sourced and properly attributed.
