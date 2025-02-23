@@ -1,3 +1,21 @@
+# First draft (2/23)
+
+Updated credits:
+
+| **Image** | **Source** |
+| ----------------------- | ----------------------------- |
+| Elon Musk giving salute at inauguration event on Jan. 20, 2025 | Eric Lee for the New York Times, Jan. 20, 2025. URL: https://images.app.goo.gl/k5WHSnGZdt1x5huV8. Fair use argument: factual material transformed for critical purposes. |
+| Deportation of Jewish people in Poland, 1942 | Unknown author, 1942. Sourced from Wikimedia Commons. URL: https://commons.wikimedia.org/wiki/File:Deportation_to_Treblinka_from_ghetto_in_Siedlce_1942.jpg. Within the public domain.
+| Deportation of undocumented immigrants in U.S., 2025 | Photo shared on X by White House Press Secretary Karoline Leavitt, Jan. 24, 2025. URL: https://x.com/presssec/status/1882759560613527770?s=46. Fair use argument: factual material transformed for critical purposes. |
+
+Citations for claims made in body text:
+
+| **Claim** | **Source** |
+| -------------------------- | ----------------------- |
+| Declining literacy rates | https://www.nbcnews.com/data-graphics/survey-growing-number-us-adults-lack-literacy-skills-rcna183498 |
+| Increase in book ban attempts | https://www.nbcnews.com/news/book-ban-attempts-reached-historic-high-last-year-library-association-rcna143381 |
+| Falling enrollment in US humanities programs | https://www.amacad.org/humanities-indicators#:~:text=A%20Profile%20of%20Humanities%20Departments,of%20declines%20in%20undergraduate%20degrees |
+
 # Preview (2/18)
 
 So far, work on my project has largely been in experimenting with the different tools GIMP offers to achieve the visual impact I want. For this preview, I was able to separate an image – what will end up being the core of the visual – into two distinct layers. I used a selection tool to create a new layer with just one object from the original image and a layer mask to refine that new layer. 
