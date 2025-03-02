@@ -1,20 +1,20 @@
-# First draft (2/23)
+# Final draft (3/2)
 
-Updated credits:
+### Assets
 
 | **Image** | **Source** |
 | ----------------------- | ----------------------------- |
-| Elon Musk giving salute at inauguration event on Jan. 20, 2025 | Eric Lee for the New York Times, Jan. 20, 2025. URL: https://images.app.goo.gl/k5WHSnGZdt1x5huV8. Fair use argument: factual material transformed for critical purposes. |
+| Elon Musk giving salute at inauguration event on Jan. 20, 2025 | Eric Lee for the New York Times, Jan. 20, 2025. URL: https://www.nytimes.com/2025/01/20/us/politics/elon-musk-hand-gesture-speech.html. Fair use argument: factual material transformed for critical purposes. |
 | Deportation of Jewish people in Poland, 1942 | Unknown author, 1942. Sourced from Wikimedia Commons. URL: https://commons.wikimedia.org/wiki/File:Deportation_to_Treblinka_from_ghetto_in_Siedlce_1942.jpg. Within the public domain.
 | Deportation of undocumented immigrants in U.S., 2025 | Photo shared on X by White House Press Secretary Karoline Leavitt, Jan. 24, 2025. URL: https://x.com/presssec/status/1882759560613527770?s=46. Fair use argument: factual material transformed for critical purposes. |
 
-Citations for claims made in body text:
+### Claims made in text:
 
 | **Claim** | **Source** |
 | -------------------------- | ----------------------- |
-| Declining literacy rates | https://www.nbcnews.com/data-graphics/survey-growing-number-us-adults-lack-literacy-skills-rcna183498 |
-| Increase in book ban attempts | https://www.nbcnews.com/news/book-ban-attempts-reached-historic-high-last-year-library-association-rcna143381 |
-| Falling enrollment in US humanities programs | https://www.amacad.org/humanities-indicators#:~:text=A%20Profile%20of%20Humanities%20Departments,of%20declines%20in%20undergraduate%20degrees |
+| Declining literacy rates | Joe Murphy, NBC News, 12/10/24. URL: https://www.nbcnews.com/data-graphics/survey-growing-number-us-adults-lack-literacy-skills-rcna183498 |
+| Increase in book ban attempts | Daniel Arkin, NBC News, 3/14/24. URL: https://www.nbcnews.com/news/book-ban-attempts-reached-historic-high-last-year-library-association-rcna143381 |
+| Falling enrollment in US humanities programs | Humanities Indicators, American Academy of Arts and Sciences. URL: https://www.amacad.org/humanities-indicators/higher-education/bachelors-degrees-humanities |
 
 # Preview (2/18)
 
